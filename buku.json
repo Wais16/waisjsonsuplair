@@ -1,0 +1,22 @@
+[
+  {
+    "id_peminjaman": 1,
+    "id_buku": "B001",
+    "judul_buku": "Pemrograman PHP untuk Pemula",
+    "id_anggota": "A101",
+    "nama_anggota": "Muhammad Uwais Alqarni",
+    "tanggal_pinjam": "2024-12-01",
+    "tanggal_kembali": "2024-12-15",
+    "status": "Dipinjam"
+  },
+  {
+    "id_peminjaman": 2,
+    "id_buku": "B002",
+    "judul_buku": "Belajar JavaScript",
+    "id_anggota": "A102",
+    "nama_anggota": "Siti Aminah",
+    "tanggal_pinjam": "2024-12-05",
+    "tanggal_kembali": "2024-12-19",
+    "status": "Dikembalikan"
+  }
+]
